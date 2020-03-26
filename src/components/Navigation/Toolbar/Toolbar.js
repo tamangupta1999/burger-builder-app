@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../Burger/Logo/Logo';
+import Logo from '../../Logo/Logo';
 import NavigationItems from '../NavigationItems/NavigationItems';
 import DrawerToggle from '../SideDrawer/DrawerToggler/DrawerToggle';
 
